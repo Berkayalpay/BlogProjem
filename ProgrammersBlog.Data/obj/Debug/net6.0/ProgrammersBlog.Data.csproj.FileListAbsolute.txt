@@ -17,3 +17,4 @@ C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net6.0\ProgrammersBlog.Data.pdb
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net6.0\ProgrammersBlog.Data.genruntimeconfig.cache
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net6.0\ref\ProgrammersBlog.Data.dll
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net6.0\ProgrammersBlog.Data.sourcelink.json
