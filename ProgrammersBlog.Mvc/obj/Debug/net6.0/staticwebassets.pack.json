@@ -1,0 +1,557 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\AdminLTE\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\css\\httpErrorBgAnimation.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\css\\httpErrorBgAnimation.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\css\\select2-bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\css\\select2-bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\css\\site.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\css\\styles.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\css\\userLogin.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\css\\userLogin.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\js\\articleAdd.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\js\\articleAdd.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\js\\articleIndex.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\js\\articleIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\js\\categoryIndex.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\js\\categoryIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\js\\homeIndex.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\js\\homeIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\js\\site.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\js\\userIndex.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\js\\userIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\css\\main.css",
+      "PackagePath": "staticwebassets\\ComingSoon\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\css\\util.css",
+      "PackagePath": "staticwebassets\\ComingSoon\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Lato\\Lato-Black.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Lato\\Lato-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Lato\\Lato-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Lato\\Lato-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Lato\\Lato-Bold.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Lato\\Lato-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Lato\\Lato-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Lato\\Lato-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Lato\\Lato-Hairline.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Lato\\Lato-Hairline.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Lato\\Lato-HairlineItalic.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Lato\\Lato-HairlineItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Lato\\Lato-Italic.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Lato\\Lato-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Lato\\Lato-Light.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Lato\\Lato-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Lato\\Lato-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Lato\\Lato-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Lato\\Lato-Regular.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Lato\\Lato-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Lato\\OFL.txt",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Lato\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\Poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\Poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\ComingSoon\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\images\\bg01.jpg",
+      "PackagePath": "staticwebassets\\ComingSoon\\images\\bg01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\images\\bg02.jpg",
+      "PackagePath": "staticwebassets\\ComingSoon\\images\\bg02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\images\\bg03.jpg",
+      "PackagePath": "staticwebassets\\ComingSoon\\images\\bg03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\ComingSoon\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\images\\icons\\logo.png",
+      "PackagePath": "staticwebassets\\ComingSoon\\images\\icons\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\images\\icons\\video-16-9.jpg",
+      "PackagePath": "staticwebassets\\ComingSoon\\images\\icons\\video-16-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\js\\main.js",
+      "PackagePath": "staticwebassets\\ComingSoon\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\countdowntime\\moment-timezone-with-data.min.js",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\countdowntime\\moment-timezone-with-data.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\countdowntime\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\countdowntime\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\countdowntime\\moment.min.js",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\countdowntime\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\ComingSoon\\vendor\\tilt\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\ComingSoon\\vendor\\tilt\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\emirtur_330_39_11_19_11_10_2024.jfif",
+      "PackagePath": "staticwebassets\\img\\emirtur_330_39_11_19_11_10_2024.jfif"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\noise-transparent.png",
+      "PackagePath": "staticwebassets\\img\\noise-transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\asljdıdskflldsfds_997_25_11_19_25_10_2024.jfif",
+      "PackagePath": "staticwebassets\\img\\postImages\\asljdıdskflldsfds_997_25_11_19_25_10_2024.jfif"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\defaultThumbnail.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\defaultThumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\deneme_561_14_36_17_23_10_2024.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\deneme_561_14_36_17_23_10_2024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\userImages\\adminuser_97_12_20_13_18_10_2024.png",
+      "PackagePath": "staticwebassets\\img\\userImages\\adminuser_97_12_20_13_18_10_2024.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\userImages\\adminuser_991_58_51_14_25_10_2024.png",
+      "PackagePath": "staticwebassets\\img\\userImages\\adminuser_991_58_51_14_25_10_2024.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\userImages\\berkayalpay_20241025182818524.jfif",
+      "PackagePath": "staticwebassets\\img\\userImages\\berkayalpay_20241025182818524.jfif"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\userImages\\defaultUser.png",
+      "PackagePath": "staticwebassets\\img\\userImages\\defaultUser.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\userImages\\editoruser_15_9_52_14_25_10_2024.png",
+      "PackagePath": "staticwebassets\\img\\userImages\\editoruser_15_9_52_14_25_10_2024.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\userImages\\editoruser_938_29_41_13_15_10_2024.jfif",
+      "PackagePath": "staticwebassets\\img\\userImages\\editoruser_938_29_41_13_15_10_2024.jfif"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\userImages\\emirtur_876_47_42_12_18_10_2024.jpg",
+      "PackagePath": "staticwebassets\\img\\userImages\\emirtur_876_47_42_12_18_10_2024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\userImages\\photouser_82_43_40_13_15_10_2024.png",
+      "PackagePath": "staticwebassets\\img\\userImages\\photouser_82_43_40_13_15_10_2024.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\uzeyirdurmus_168_22_32_16_11_10_2024.jfif",
+      "PackagePath": "staticwebassets\\img\\uzeyirdurmus_168_22_32_16_11_10_2024.jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProgrammersBlog.Mvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProgrammersBlog.Mvc.props",
+      "PackagePath": "build\\ProgrammersBlog.Mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProgrammersBlog.Mvc.props",
+      "PackagePath": "buildMultiTargeting\\ProgrammersBlog.Mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProgrammersBlog.Mvc.props",
+      "PackagePath": "buildTransitive\\ProgrammersBlog.Mvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

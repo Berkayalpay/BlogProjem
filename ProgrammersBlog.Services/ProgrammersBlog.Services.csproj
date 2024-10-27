@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>False</GenerateDocumentationFile>
+    <DocumentationFile>\ProgrammersBlog.Services\ProgrammersBlog.Services.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProgrammersBlog.Data\ProgrammersBlog.Data.csproj" />
+    <ProjectReference Include="..\ProgrammersBlog.Entities\ProgrammersBlog.Entities.csproj" />
+    <ProjectReference Include="..\ProgrammersBlog.Shared\ProgrammersBlog.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

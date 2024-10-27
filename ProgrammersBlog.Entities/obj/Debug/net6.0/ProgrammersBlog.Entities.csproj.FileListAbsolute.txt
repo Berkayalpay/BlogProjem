@@ -1,0 +1,15 @@
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net6.0\ProgrammersBlog.Entities.deps.json
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net6.0\ProgrammersBlog.Entities.dll
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net6.0\ProgrammersBlog.Entities.pdb
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net6.0\ProgrammersBlog.Shared.dll
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net6.0\ProgrammersBlog.Shared.pdb
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net6.0\ProgrammersBlog.Entities.csproj.AssemblyReference.cache
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net6.0\ProgrammersBlog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net6.0\ProgrammersBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net6.0\ProgrammersBlog.Entities.AssemblyInfo.cs
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net6.0\ProgrammersBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net6.0\Programm.97034618.Up2Date
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net6.0\ProgrammersBlog.Entities.dll
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net6.0\refint\ProgrammersBlog.Entities.dll
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net6.0\ProgrammersBlog.Entities.pdb
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net6.0\ref\ProgrammersBlog.Entities.dll

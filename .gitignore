@@ -1,0 +1,7 @@
+# Visual Studio ile ilgili klasör ve dosyalar
+.vs/
+*.user
+*.suo
+*.csproj.user
+*.cache
+*.pdb
