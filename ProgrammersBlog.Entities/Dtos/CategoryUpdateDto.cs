@@ -24,7 +24,7 @@ namespace ProgrammersBlog.Entities.Dtos
         [DisplayName("Kategori Özel Not Alanı")]
         [MaxLength(500, ErrorMessage = "{0} {1} karakterden büyük olmamalıdır.")]
         [MinLength(3, ErrorMessage = "{0} {1} karakterden az olmamalıdır.")]
-        public string Note { get; set; }
+        public string? Note { get; set; }
         [DisplayName("Aktif Mi?")]
         [Required(ErrorMessage = "{0} boş geçilmemelidir.")]
         public bool IsActive { get; set; }

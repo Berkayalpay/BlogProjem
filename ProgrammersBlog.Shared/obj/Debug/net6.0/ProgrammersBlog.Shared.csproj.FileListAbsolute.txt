@@ -12,3 +12,4 @@ C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Shared\obj\Deb
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net6.0\ProgrammersBlog.Shared.pdb
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net6.0\ProgrammersBlog.Shared.genruntimeconfig.cache
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net6.0\ref\ProgrammersBlog.Shared.dll
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net6.0\ProgrammersBlog.Shared.sourcelink.json

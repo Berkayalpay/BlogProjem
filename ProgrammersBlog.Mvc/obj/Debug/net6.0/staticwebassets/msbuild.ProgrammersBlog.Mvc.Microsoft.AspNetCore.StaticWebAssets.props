@@ -1952,6 +1952,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\noise-transparent.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\postImages\.NET5 ile Gelen Yenilikler_216_59_50_15_28_10_2024.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProgrammersBlog.Mvc</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProgrammersBlog.Mvc</BasePath>
+      <RelativePath>img/postImages/.NET5 ile Gelen Yenilikler_216_59_50_15_28_10_2024.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\postImages\.NET5 ile Gelen Yenilikler_216_59_50_15_28_10_2024.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\postImages\asljdıdskflldsfds_997_25_11_19_25_10_2024.jfif))">
       <SourceType>Package</SourceType>
       <SourceId>ProgrammersBlog.Mvc</SourceId>
@@ -1967,6 +1983,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\postImages\asljdıdskflldsfds_997_25_11_19_25_10_2024.jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\postImages\Blazor İle React Arasındaki Farklılıklar_454_22_41_16_27_10_2024.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProgrammersBlog.Mvc</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProgrammersBlog.Mvc</BasePath>
+      <RelativePath>img/postImages/Blazor İle React Arasındaki Farklılıklar_454_22_41_16_27_10_2024.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\postImages\Blazor İle React Arasındaki Farklılıklar_454_22_41_16_27_10_2024.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\postImages\defaultThumbnail.jpg))">
       <SourceType>Package</SourceType>
@@ -1999,6 +2031,54 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\postImages\deneme_561_14_36_17_23_10_2024.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\postImages\Java ile İlgili Bilgiler_16_23_8_16_27_10_2024.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProgrammersBlog.Mvc</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProgrammersBlog.Mvc</BasePath>
+      <RelativePath>img/postImages/Java ile İlgili Bilgiler_16_23_8_16_27_10_2024.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\postImages\Java ile İlgili Bilgiler_16_23_8_16_27_10_2024.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\postImages\NativeSctipt Programlama Yeni Başlık _957_11_48_15_28_10_2024.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProgrammersBlog.Mvc</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProgrammersBlog.Mvc</BasePath>
+      <RelativePath>img/postImages/NativeSctipt Programlama Yeni Başlık _957_11_48_15_28_10_2024.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\postImages\NativeSctipt Programlama Yeni Başlık _957_11_48_15_28_10_2024.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\postImages\NodeJs Programlama_338_15_27_13_28_10_2024.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProgrammersBlog.Mvc</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProgrammersBlog.Mvc</BasePath>
+      <RelativePath>img/postImages/NodeJs Programlama_338_15_27_13_28_10_2024.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\postImages\NodeJs Programlama_338_15_27_13_28_10_2024.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\userImages\adminuser_97_12_20_13_18_10_2024.png))">
       <SourceType>Package</SourceType>

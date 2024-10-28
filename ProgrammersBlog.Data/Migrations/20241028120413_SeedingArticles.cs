@@ -10,8 +10,8 @@ namespace ProgrammersBlog.Data.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.Sql(
-     "INSERT INTO [ProgrammersBlog].dbo.Articles (Title,[Content],Note,Thumbnail,[Date],[CreatedDate],CreatedByName,ModifiedDate,ModifiedByName,IsActive,IsDeleted,UserId,CategoryId,SeoAuthor,SeoDescription,SeoTags,CommentCount,ViewsCount) " +
-     "VALUES ('.NET5 ile Gelen Yenilikler','Yaygın inancın tersine, Lorem Ipsum rastgele sözcüklerden oluşmaz. ...', 'İlk C# Paylaşımı', 'postImages/defaultThumbnail.jpg', GETDATE(), GETDATE(), 'Migration', GETDATE(), 'Migration', 1, 0, 1, 1, 'C# Developer', 'C# 9.0 .NET5', 'C# F# .NET CORE .NET ASP.NET MVC5', 0, 1)");
+      "INSERT INTO [ProgrammersBlog].dbo.Articles (Title,[Content],Note,Thumbnail,[Date],[CreatedDate],CreatedByName,ModifiedDate,ModifiedByName,IsActive,IsDeleted,UserId,CategoryId,SeoAuthor,SeoDescription,SeoTags,CommentCount,ViewsCount) " +
+      "VALUES ('.NET5 ile Gelen Yenilikler','Yaygın inancın tersine, Lorem Ipsum rastgele sözcüklerden oluşmaz. ...', 'İlk C# Paylaşımı', 'postImages/defaultThumbnail.jpg', GETDATE(), GETDATE(), 'Migration', GETDATE(), 'Migration', 1, 0, 1, 1, 'C# Developer', 'C# 9.0 .NET5', 'C# F# .NET CORE .NET ASP.NET MVC5', 0, 1)");
 
             migrationBuilder.Sql(
                 "INSERT INTO [ProgrammersBlog].dbo.Articles (Title,[Content],Note,Thumbnail,[Date],[CreatedDate],CreatedByName,ModifiedDate,ModifiedByName,IsActive,IsDeleted,UserId,CategoryId,SeoAuthor,SeoDescription,SeoTags,CommentCount,ViewsCount) " +
@@ -37,7 +37,7 @@ namespace ProgrammersBlog.Data.Migrations
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
-            
+           
         }
     }
 }

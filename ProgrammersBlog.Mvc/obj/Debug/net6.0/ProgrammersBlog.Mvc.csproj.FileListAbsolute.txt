@@ -400,3 +400,5 @@ C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net6.0\ProgrammersBlog.Mvc.genruntimeconfig.cache
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net6.0\ref\ProgrammersBlog.Mvc.dll
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net6.0\ProgrammersBlog.Mvc.sourcelink.json
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net6.0\NToastNotify.Views.dll
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net6.0\NToastNotify.dll

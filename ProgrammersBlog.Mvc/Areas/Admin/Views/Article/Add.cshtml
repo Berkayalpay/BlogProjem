@@ -8,6 +8,14 @@
     <li class="breadcrumb-item active"><a asp-area="Admin" asp-controller="Article" asp-action="Index">Makaleler</a></li>
     <li class="breadcrumb-item active"><a asp-area="Admin" asp-controller="Article" asp-action="Add">Ekle</a></li>
 </ol>
+<!-- Uyarı Mesajı -->
+<div class="alert alert-warning alert-dismissible fade show" role="alert">
+    <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong> Her alanı doldurmayı unutmayınız!
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+
 <form asp-controller="Article" asp-action="Add" method="post" enctype="multipart/form-data">
     <div class="row mt-2">
         <div class="col-md-8">
@@ -107,5 +115,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/themes/cupertino/jquery-ui.min.css" integrity="sha512-ug/p2fTnYRx/TfVgL8ejTWolaq93X+48/FLS9fKf7AiazbxHkSEENdzWkOxbjJO/X1grUPt9ERfBt21iLh2dxg==" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/themes/cupertino/theme.min.css" integrity="sha512-adRIgePtMQgAVB+Mfkhl+Nyva/WllWlFzJyyhYCjznU3Di+Z4SsYi1Rqsep11PYLpUsW/SjE4NXUkIjabQJCOQ==" crossorigin="anonymous" />
     <link href="~/AdminLTE/css/select2-bootstrap4.min.css" rel="stylesheet" />
+
 
 }
