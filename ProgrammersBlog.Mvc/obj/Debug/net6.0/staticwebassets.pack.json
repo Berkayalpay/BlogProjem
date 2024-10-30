@@ -53,8 +53,16 @@
       "PackagePath": "staticwebassets\\AdminLTE\\js\\categoryIndex.js"
     },
     {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\js\\commentIndex.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\js\\commentIndex.js"
+    },
+    {
       "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\js\\homeIndex.js",
       "PackagePath": "staticwebassets\\AdminLTE\\js\\homeIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\js\\roleIndex.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\js\\roleIndex.js"
     },
     {
       "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\AdminLTE\\js\\scripts.js",
@@ -519,6 +527,18 @@
     {
       "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\deneme_561_14_36_17_23_10_2024.jpg",
       "PackagePath": "staticwebassets\\img\\postImages\\deneme_561_14_36_17_23_10_2024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\kefitüpkefitüpkefitüpkefitüpkefitüp_468_41_20_15_29_10_2024.jfif",
+      "PackagePath": "staticwebassets\\img\\postImages\\kefitüpkefitüpkefitüpkefitüpkefitüp_468_41_20_15_29_10_2024.jfif"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\sakhfdvıdsklfşjoksiafd kjsaldşksad_37_25_44_19_30_10_2024.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\sakhfdvıdsklfşjoksiafd kjsaldşksad_37_25_44_19_30_10_2024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\userImages\\adminuser_124_33_45_19_30_10_2024.png",
+      "PackagePath": "staticwebassets\\img\\userImages\\adminuser_124_33_45_19_30_10_2024.png"
     },
     {
       "Id": "C:\\Users\\berka\\source\\projereposu\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\userImages\\adminuser_97_12_20_13_18_10_2024.png",

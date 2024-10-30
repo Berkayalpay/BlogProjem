@@ -322,6 +322,8 @@ C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net6.0\NToastNotify.Views.dll
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net6.0\NToastNotify.dll
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net6.0\System.Drawing.Common.dll
@@ -385,6 +387,7 @@ C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net6.0\ProgrammersBlog.Mvc.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net6.0\ProgrammersBlog.Mvc.RazorAssemblyInfo.cache
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net6.0\ProgrammersBlog.Mvc.RazorAssemblyInfo.cs
+C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net6.0\ProgrammersBlog.Mvc.sourcelink.json
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net6.0\staticwebassets\msbuild.ProgrammersBlog.Mvc.Microsoft.AspNetCore.StaticWebAssets.props
@@ -399,6 +402,3 @@ C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net6.0\ProgrammersBlog.Mvc.pdb
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net6.0\ProgrammersBlog.Mvc.genruntimeconfig.cache
 C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net6.0\ref\ProgrammersBlog.Mvc.dll
-C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net6.0\ProgrammersBlog.Mvc.sourcelink.json
-C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net6.0\NToastNotify.Views.dll
-C:\Users\berka\source\projereposu\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net6.0\NToastNotify.dll

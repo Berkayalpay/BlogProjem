@@ -32,9 +32,9 @@ namespace ProgrammersBlog.Services.Extensions
                 options.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._@+$";
                 options.User.RequireUniqueEmail = true;
             }).AddEntityFrameworkStores<ProgrammersBlogContext>();
-            serviceCollection.AddScoped<IUnitOfWork, UnitOfWork>();
+            serviceCollection.AddScoped<IUnitOfWork, UnitOfWork>();          
+            serviceCollection.AddScoped<IArticleService, ArticleManager>();    
             serviceCollection.AddScoped<ICategoryService, CategoryManager>();
-            serviceCollection.AddScoped<IArticleService, ArticleManager>();
             serviceCollection.AddScoped<ICommentService, CommentManager>();
             return serviceCollection;
         }
